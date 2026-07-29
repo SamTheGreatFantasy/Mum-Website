@@ -1,0 +1,102 @@
+.pdash {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.pdash__hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.pdash__hero h1 {
+  margin: 0 0 0.25rem;
+}
+
+.pdash__subtitle {
+  margin: 0 0 0.25rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.pdash__count {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.pdash__hero-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.pdash__hero-badge {
+  background: var(--accent-soft);
+  border: 1px solid var(--accent-border);
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 0.35rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.pdash__my-patterns-btn {
+  font-size: 0.82rem;
+  padding: 0.35rem 0.9rem;
+}
+
+.pdash__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+.pdash__empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--muted);
+}
+
+.pdash__empty-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.pdash__empty h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.pdash__empty p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.pdash__recent {
+  border-top: 1px solid var(--border);
+  padding-top: 1.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.pdash__recent h2 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.pdash__recent-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}

@@ -1,0 +1,102 @@
+{
+  "id": "baby-blanket-bliss",
+  "title": "Baby Blanket Bliss",
+  "description": "A beautifully simple baby blanket worked in super-bulky yarn for speed. A central moss stitch body is framed by a neat seed stitch border, giving a classic, heirloom feel. Perfect as a baby shower gift — knits up in just a few evenings.",
+  "designer": "Ali Corah",
+  "category": "Blankets",
+  "difficulty": "Beginner",
+  "yarnWeight": "Bulky",
+  "yarnRequirements": "300–400g super bulky or chunky yarn (approx. 160–200m). Shown in cream.",
+  "needleSize": "8 mm",
+  "finishedMeasurements": {
+    "width": "65 cm",
+    "length": "80 cm"
+  },
+  "gauge": "11 sts × 16 rows = 10 cm in moss stitch on 8 mm needles",
+  "estimatedTime": "6–12 hours",
+  "tags": ["baby", "blanket", "beginner", "gift", "bulky", "moss-stitch"],
+  "priceAmount": null,
+  "downloadLink": "#",
+  "featuredImage": "https://picsum.photos/seed/baby-blanket-main/800/600",
+  "galleryImages": [
+    "https://picsum.photos/seed/baby-blanket-main/800/600",
+    "https://picsum.photos/seed/baby-blanket-fold/800/600",
+    "https://picsum.photos/seed/baby-blanket-edge/800/600"
+  ],
+  "addedAt": "2024-11-10",
+  "rating": 4.8,
+  "reviewCount": 112,
+  "popularity": 91,
+  "materials": [
+    "300–400g super bulky yarn",
+    "8 mm straight or circular needles (60 cm+)",
+    "Tapestry needle",
+    "Scissors"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Cast On & Border",
+      "body": "Cast on 73 sts. Row 1 (border): *k1, p1; repeat to last st, k1. Repeat this row 6 more times (7 rows total of seed stitch border)."
+    },
+    {
+      "step": 2,
+      "title": "Main Body",
+      "body": "Set up body: Seed 7 sts, pm, work moss stitch over centre 59 sts, pm, seed 7 sts. Moss stitch: Row 1: *k1, p1; repeat. Row 2: *p1, k1; repeat. Maintain seed borders throughout. Continue until blanket measures 73 cm from cast-on."
+    },
+    {
+      "step": 3,
+      "title": "Final Border & Cast Off",
+      "body": "Work 7 rows of seed stitch across all sts (removing markers on first row). Cast off loosely in pattern."
+    },
+    {
+      "step": 4,
+      "title": "Finishing",
+      "body": "Weave in all ends securely. Wash on a gentle cycle and lay flat to dry."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "gemma_jo",
+      "rating": 5,
+      "date": "2024-11-28",
+      "body": "Made 4 of these as baby shower gifts and everyone thought I'd bought them from a shop. Brilliant free pattern, knits up so fast!"
+    },
+    {
+      "id": 2,
+      "author": "NanKnitter",
+      "rating": 5,
+      "date": "2024-12-15",
+      "body": "Perfect for a complete beginner. This was my very first blanket and it came out wonderfully. Very easy to follow instructions."
+    },
+    {
+      "id": 3,
+      "author": "StephH",
+      "rating": 4,
+      "date": "2025-01-04",
+      "body": "Lovely pattern, only thing i'd say is the yarn quantity seems a bit underestimated - I needed quite a bit more than suggested. Definately buy extra just incase!"
+    },
+    {
+      "id": 4,
+      "author": "mum_of_3_crafts",
+      "rating": 5,
+      "date": "2025-02-10",
+      "body": "So simple and so beautiful. Have made 3 now in different colours. The seed stitch border really makes it look professional."
+    },
+    {
+      "id": 5,
+      "author": "David_P",
+      "rating": 3,
+      "date": "2025-03-01",
+      "body": "Not bad but I found the seed stitch border quite tedious after a while haha. Good pattern overall but maybe not for someone who doesn't enjoy repetitive stitch work."
+    },
+    {
+      "id": 6,
+      "author": "k_mills",
+      "rating": 4,
+      "date": "2025-03-18",
+      "body": "Sweet pattern. Came up slightly smaller than the measurements stated but I think that's just my tension. Would recommend for a quick and impressive gift."
+    }
+  ]
+}

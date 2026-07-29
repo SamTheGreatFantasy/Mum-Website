@@ -1,0 +1,114 @@
+{
+  "id": "cosy-cable-sweater",
+  "title": "Cosy Cable Sweater",
+  "description": "A classic, warm sweater featuring a central cable panel on the body and sleeves. Knitted from the bottom up in pieces and seamed, this is a wonderful project for knitters ready to take their first steps into cabling. Fits sizes XS–XL with simple adjustments.",
+  "designer": "Ali Corah",
+  "category": "Clothing",
+  "difficulty": "Intermediate",
+  "yarnWeight": "Worsted",
+  "yarnRequirements": "500–700g Worsted weight yarn, depending on size (approx. 1000–1400m). Shown in oatmeal.",
+  "needleSize": "5 mm",
+  "finishedMeasurements": {
+    "chest": "90–105 cm (adjust with needle size)",
+    "length": "60 cm",
+    "sleeve length": "55 cm",
+    "yoke depth": "24 cm"
+  },
+  "gauge": "18 sts × 24 rows = 10 cm in stocking stitch on 5 mm needles",
+  "estimatedTime": "40–60 hours",
+  "tags": ["sweater", "cable", "winter", "bottom-up", "seamed", "intermediate"],
+  "priceAmount": 4.99,
+  "originalPrice": 5.49,
+  "downloadLink": "#",
+  "featuredImage": "https://picsum.photos/seed/cable-sweater-main/800/600",
+  "galleryImages": [
+    "https://picsum.photos/seed/cable-sweater-main/800/600",
+    "https://picsum.photos/seed/cable-sweater-back/800/600",
+    "https://picsum.photos/seed/cable-sweater-detail/800/600",
+    "https://picsum.photos/seed/cable-sweater-sleeve/800/600"
+  ],
+  "addedAt": "2024-06-15",
+  "rating": 4.9,
+  "reviewCount": 61,
+  "popularity": 97,
+  "materials": [
+    "500–700g Worsted weight wool or wool-blend yarn",
+    "5 mm straight or circular needles (60 cm)",
+    "Cable needle",
+    "Stitch holders × 4",
+    "Stitch markers × 6",
+    "Tapestry needle",
+    "Measuring tape"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Back Panel",
+      "body": "Cast on 82 (90, 98) sts. Work 2×2 rib for 6 cm. Change to stocking stitch and work even until piece measures 38 cm from cast-on. Shape armholes: cast off 4 sts at beg of next 2 rows, then dec 1 st each end EOR 3 times. Continue until armhole measures 22 cm. Place sts on holder."
+    },
+    {
+      "step": 2,
+      "title": "Front Panel with Cable",
+      "body": "Cast on 82 (90, 98) sts. Work 2×2 rib for 6 cm. Set up cable panel: work 28 (32, 36) sts in st st, 26 sts in cable panel (see chart), 28 (32, 36) sts in st st. Cable panel: rounds 1–5 knit; round 6: sl6 to cable needle, hold front, k6, k6 from cable needle, k14. Repeat this 6-row cable every 6 rows. Shape armholes as for back."
+    },
+    {
+      "step": 3,
+      "title": "Sleeves (Make 2)",
+      "body": "Cast on 42 sts. Work 2×2 rib for 5 cm. Increase 1 st each end every 8th row until you have 64 sts. Work even until sleeve measures 47 cm. Shape sleeve cap: cast off 4 sts each end, dec 1 st each end EOR 10 times, cast off remaining sts."
+    },
+    {
+      "step": 4,
+      "title": "Neckband",
+      "body": "Join shoulder seams. With circular needles, pick up and knit approx 90 sts around neckline. Work 2×2 rib for 4 cm. Cast off loosely in rib."
+    },
+    {
+      "step": 5,
+      "title": "Finishing & Seaming",
+      "body": "Set in sleeves using mattress stitch. Join side seams and sleeve seams. Weave in all ends on the wrong side. Block the finished sweater by soaking in cool water, pressing gently in a towel, and drying flat to measurements."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "olivia.banks",
+      "rating": 5,
+      "date": "2024-07-14",
+      "body": "Best pattern i've bought this year, the cable panel came out even better than the photos. Worth every penny!"
+    },
+    {
+      "id": 2,
+      "author": "knitandpurl99",
+      "rating": 4,
+      "date": "2024-08-30",
+      "body": "Really good pattern overall but the sizing chart was a little confusing - had to measure myself a few times to be sure which size to go for. Sweater came out great though once I figured it out!"
+    },
+    {
+      "id": 3,
+      "author": "HeatherM",
+      "rating": 5,
+      "date": "2024-10-05",
+      "body": "Made this twice now - one for me and one for my daughter. Perfect for winter. Both fit beautifully."
+    },
+    {
+      "id": 4,
+      "author": "mark_t",
+      "rating": 3,
+      "date": "2024-11-18",
+      "body": "Not quite what I expected tbh - there are a couple of typos in the abbreviations section which threw me off for a bit. Still a nice knit once I figured out what they ment, but worth being aware of."
+    },
+    {
+      "id": 5,
+      "author": "Cass_Knits",
+      "rating": 5,
+      "date": "2025-01-07",
+      "body": "The cable panel is so satisfying to work. Instructions are well written and the progress photos in the PDF are really helpful."
+    },
+    {
+      "id": 6,
+      "author": "janesmith_crafts",
+      "rating": 4,
+      "date": "2025-02-22",
+      "body": "Lovely pattern. I went down a needle size from the suggestion as my tension runs loose and it ended up perfect. Would definately recommend."
+    }
+  ]
+}

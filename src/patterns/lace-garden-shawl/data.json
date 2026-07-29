@@ -1,0 +1,110 @@
+{
+  "id": "lace-garden-shawl",
+  "title": "Lace Garden Shawl",
+  "description": "An heirloom-quality triangular shawl worked in fine lace weight yarn. The garden motif features flowing leaf and blossom repeats that build into a stunning border. Best suited for experienced knitters comfortable with lace charts, yarn-overs, and decreases.",
+  "designer": "Ali Corah",
+  "category": "Accessories",
+  "difficulty": "Advanced",
+  "yarnWeight": "Sport",
+  "yarnRequirements": "350–400g lace weight or fingering weight yarn (approx. 1400–1600m). Shown in sage green.",
+  "needleSize": "3.25 mm",
+  "finishedMeasurements": {
+    "wingspan": "180 cm (blocked)",
+    "depth at centre": "90 cm (blocked)"
+  },
+  "gauge": "24 sts × 32 rows = 10 cm in stocking stitch (blocked). Gauge is less critical for shawls — focus on drape.",
+  "estimatedTime": "30–50 hours",
+  "tags": ["shawl", "lace", "advanced", "triangular", "heirloom", "chart"],
+  "priceAmount": 3.50,
+  "originalPrice": 3.85,
+  "downloadLink": "#",
+  "featuredImage": "https://picsum.photos/seed/lace-shawl-main/800/600",
+  "galleryImages": [
+    "https://picsum.photos/seed/lace-shawl-main/800/600",
+    "https://picsum.photos/seed/lace-shawl-spread/800/600",
+    "https://picsum.photos/seed/lace-shawl-detail/800/600"
+  ],
+  "addedAt": "2024-03-20",
+  "rating": 4.8,
+  "reviewCount": 29,
+  "popularity": 72,
+  "materials": [
+    "350–400g lace/fingering weight yarn",
+    "3.25 mm circular needles (80 cm minimum)",
+    "Stitch markers × 3",
+    "Blocking mats and pins",
+    "Tapestry needle",
+    "Row counter (recommended)"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Garter Tab Cast On",
+      "body": "Cast on 3 sts. Work in garter stitch (knit every row) for 8 rows. Do not turn after the last row. Pick up 4 sts along the left edge, then pick up 3 sts from the cast-on edge (10 sts total). This forms the initial spine of the shawl."
+    },
+    {
+      "step": 2,
+      "title": "Body Setup",
+      "body": "Setup row (WS): K3, pm, p1, pm, p2, pm, p1, pm, k3. Right side rows: K3, sm, yo, k to marker, yo, sm, k1, sm, yo, k to last marker, yo, sm, k3. Wrong side rows: K3, p to last 3 sts, k3. Repeat these 2 rows, increasing 4 sts every RS row, until you have 130 sts."
+    },
+    {
+      "step": 3,
+      "title": "Lace Body Sections",
+      "body": "Begin working the Garden Lace repeat (Chart A, 16-row repeat) on the two main sections of the shawl, maintaining the garter border and spine increases. Work Chart A twice (32 rows). The chart uses yo, k2tog, ssk, and sl1-k2tog-psso for the leaf shapes."
+    },
+    {
+      "step": 4,
+      "title": "Border",
+      "body": "Work the Blossom Border (Chart B, 24 rows). This border is deeper and more ornate — work carefully and place additional markers to track pattern sections. The border does not continue the spine increases; instead it fans outward from the existing stitches."
+    },
+    {
+      "step": 5,
+      "title": "Cast Off & Blocking",
+      "body": "Cast off loosely using a stretchy bind off (e.g. k2, *slip both sts back to left needle, k2tog through back loop, k1; repeat). Blocking is essential: soak in cool water for 20 minutes, squeeze gently, and pin to measurements on blocking mats. Leave to dry completely (12–24 hours). The lace will open dramatically on blocking."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "eleanor_f",
+      "rating": 5,
+      "date": "2024-05-03",
+      "body": "A genuine masterpiece of a pattern. Took me nearly 3 weeks but the result is breathtaking. Blocked out perfectly."
+    },
+    {
+      "id": 2,
+      "author": "PattiKnits",
+      "rating": 4,
+      "date": "2024-06-19",
+      "body": "Beutiful pattern but I found a couple of errors in Chart B that had me confused for a good hour or so. The designer did respond quickly when I messaged them though, so good customer service at least!"
+    },
+    {
+      "id": 3,
+      "author": "LaceWithLouise",
+      "rating": 5,
+      "date": "2024-08-01",
+      "body": "This is my magnum opus. Blocked and framed it 😂 absolutely gorgeous. If you're thinking about it, just buy it."
+    },
+    {
+      "id": 4,
+      "author": "Helen_W",
+      "rating": 4,
+      "date": "2024-10-12",
+      "body": "Very challenging but mostly clear instructions. I think there might be a small error on Chart B row 14 - had to wing it a bit there. End result is stunning though."
+    },
+    {
+      "id": 5,
+      "author": "croft_maker",
+      "rating": 5,
+      "date": "2025-01-09",
+      "body": "Incredible pattern. If you're an advanced knitter this is a must have. The garden motif blocks out to something really speical."
+    },
+    {
+      "id": 6,
+      "author": "anna_threads",
+      "rating": 3,
+      "date": "2025-02-17",
+      "body": "I bought this expecting advanced but manageable — it's genuinely hard. Had to frog twice. The end result is beautiful but please be prepaired for a real challenge before purchasing."
+    }
+  ]
+}

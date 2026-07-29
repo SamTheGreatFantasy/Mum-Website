@@ -1,0 +1,109 @@
+{
+  "id": "striped-fingerless-gloves",
+  "title": "Striped Fingerless Gloves",
+  "description": "Fun, modern fingerless gloves knitted in the round with bold stripes and a tidy thumb gusset. Worked in DK weight yarn, these knit up quickly and are endlessly customisable with your own colour combinations. A brilliant intermediate project that makes an excellent gift.",
+  "designer": "Ali Corah",
+  "category": "Accessories",
+  "difficulty": "Intermediate",
+  "yarnWeight": "DK",
+  "yarnRequirements": "50g each of 2–3 colours DK weight yarn (approx. 110m per colour). Shown in navy and cream.",
+  "needleSize": "3.75 mm",
+  "finishedMeasurements": {
+    "hand circumference": "18–20 cm",
+    "length": "22 cm"
+  },
+  "gauge": "24 sts × 32 rows = 10 cm in stocking stitch on 3.75 mm needles",
+  "estimatedTime": "8–14 hours",
+  "tags": ["gloves", "fingerless", "stripes", "intermediate", "in-the-round", "gift"],
+  "priceAmount": null,
+  "downloadLink": "#",
+  "featuredImage": "https://picsum.photos/seed/gloves-main/800/600",
+  "galleryImages": [
+    "https://picsum.photos/seed/gloves-main/800/600",
+    "https://picsum.photos/seed/gloves-pair/800/600",
+    "https://picsum.photos/seed/gloves-detail/800/600"
+  ],
+  "addedAt": "2024-10-05",
+  "rating": 4.6,
+  "reviewCount": 47,
+  "popularity": 79,
+  "materials": [
+    "50g each of 2–3 colours DK yarn",
+    "3.75 mm DPNs or small circular needles",
+    "3.25 mm DPNs for cuff ribbing",
+    "Stitch markers × 2",
+    "Waste yarn for thumb",
+    "Tapestry needle"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Cuff",
+      "body": "Cast on 44 sts in Colour A onto 3.25 mm needles. Join to work in the round. Work k2, p2 rib for 4 cm."
+    },
+    {
+      "step": 2,
+      "title": "Stripe Body",
+      "body": "Switch to 3.75 mm needles. Work stripes as follows: 4 rounds Colour A, 4 rounds Colour B. Carry yarns loosely up the inside. Continue stripe pattern until glove measures 10 cm from cast-on."
+    },
+    {
+      "step": 3,
+      "title": "Thumb Gusset",
+      "body": "Round 1: k1, pm, m1L, k1, m1R, pm, k to end. Round 2–3: knit. Round 4: k1, sm, m1L, k to marker, m1R, sm, k to end. Repeat rounds 2–4 until you have 13 gusset sts between markers. Next round: k1, transfer 13 gusset sts to waste yarn, cast on 1 st, k to end (44 sts)."
+    },
+    {
+      "step": 4,
+      "title": "Hand",
+      "body": "Continue stripe pattern until glove measures 20 cm total. Work 2 cm k2, p2 rib. Cast off loosely in rib."
+    },
+    {
+      "step": 5,
+      "title": "Thumb",
+      "body": "Transfer held gusset sts to needles, pick up 3 sts from the hand gap (16 sts). Work in the round in stocking stitch for 2.5 cm. Cast off loosely."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "tomwilliams88",
+      "rating": 5,
+      "date": "2024-10-22",
+      "body": "These are my go-to gift pattern now. Fast, fun and the stripes look amazing. Made 4 pairs already and everyone loves them."
+    },
+    {
+      "id": 2,
+      "author": "_knitbyme_",
+      "rating": 4,
+      "date": "2024-11-30",
+      "body": "Really enjoyed making these! The thumb gusset instrutions could be a bit clearer but once you get it its totally fine. Beautiful result and so warm."
+    },
+    {
+      "id": 3,
+      "author": "Lucy_M",
+      "rating": 5,
+      "date": "2025-01-12",
+      "body": "Made a pair in a weekend! Love how customisable the stripe colours are. Wore them all winter."
+    },
+    {
+      "id": 4,
+      "author": "craftdad",
+      "rating": 3,
+      "date": "2025-01-27",
+      "body": "Made a pair for my wife but the sizing came up quite large for her - more of a medium/large than I expected from a 'one size'. Pattern itself is fine, just wish there were more size options."
+    },
+    {
+      "id": 5,
+      "author": "BethKnits",
+      "rating": 5,
+      "date": "2025-02-14",
+      "body": "My 4th pair of fingerless gloves and by far the best pattern i've used. The thumb gusset sits really comfortably."
+    },
+    {
+      "id": 6,
+      "author": "rosie.j",
+      "rating": 4,
+      "date": "2025-03-05",
+      "body": "Great quick project. I substituted a different DK yarn and it worked out brilliantly. The stripes are very forgiving for colour changes."
+    }
+  ]
+}

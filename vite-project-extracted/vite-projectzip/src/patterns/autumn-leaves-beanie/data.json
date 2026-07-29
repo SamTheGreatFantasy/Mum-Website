@@ -1,0 +1,103 @@
+{
+  "id": "autumn-leaves-beanie",
+  "title": "Autumn Leaves Beanie",
+  "description": "A cosy, slouchy beanie knitted in the round featuring a delicate repeating leaf lace motif. Worked from the brim upward in DK weight yarn, this is a satisfying first lace project that knits up quickly. One size fits most adults with a stretchy ribbed brim.",
+  "designer": "Ali Corah",
+  "category": "Accessories",
+  "difficulty": "Beginner",
+  "yarnWeight": "DK",
+  "yarnRequirements": "100–120g DK weight yarn (approx. 220–265m). Shown in burnt orange.",
+  "needleSize": "4 mm",
+  "finishedMeasurements": {
+    "circumference": "54–58 cm (unstretched)",
+    "height": "26 cm"
+  },
+  "gauge": "22 sts × 28 rows = 10 cm in stocking stitch on 4 mm needles",
+  "estimatedTime": "6–10 hours",
+  "tags": ["beanie", "hat", "lace", "beginner", "in-the-round", "autumn"],
+  "priceAmount": null,
+  "downloadLink": "#",
+  "featuredImage": "https://picsum.photos/seed/beanie-main/800/600",
+  "galleryImages": [
+    "https://picsum.photos/seed/beanie-main/800/600",
+    "https://picsum.photos/seed/beanie-side/800/600",
+    "https://picsum.photos/seed/beanie-detail/800/600"
+  ],
+  "addedAt": "2024-09-01",
+  "rating": 4.7,
+  "reviewCount": 84,
+  "popularity": 88,
+  "materials": [
+    "100–120g DK weight yarn",
+    "4 mm circular needles (40 cm) or DPNs",
+    "3.5 mm circular needles for ribbing",
+    "Stitch marker",
+    "Tapestry needle"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "title": "Ribbed Brim",
+      "body": "Cast on 112 sts using the long-tail method onto 3.5 mm needles. Join to work in the round, being careful not to twist. Place marker. Work k2, p2 rib for 5 cm."
+    },
+    {
+      "step": 2,
+      "title": "Body",
+      "body": "Switch to 4 mm needles. Work the Autumn Leaf repeat (12-st repeat × 9, plus 4 extra sts for centring) for 12 cm as follows — Round 1: *k2, yo, k1, ssk, k1, k2tog, k1, yo, k2; repeat. Round 2: knit. Repeat these 2 rounds throughout the body."
+    },
+    {
+      "step": 3,
+      "title": "Crown Shaping",
+      "body": "Begin decreases when hat measures 18 cm total. Round 1: *k8, k2tog; repeat to end. Rounds 2–4: knit. Round 5: *k7, k2tog; repeat. Continue decreasing 1 st in each repeat every 4th round until 14 sts remain."
+    },
+    {
+      "step": 4,
+      "title": "Finishing",
+      "body": "Cut yarn leaving a 20 cm tail. Thread through remaining sts with tapestry needle, pull tight, and secure on the inside. Weave in all ends. Block by soaking in lukewarm water, pressing in a towel, and drying over a balloon or hat form."
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "sarah_k92",
+      "rating": 5,
+      "date": "2024-09-20",
+      "body": "Absolutely love this pattern! Made it in one weekend. Came out perfectly and the leaf motif is just gorgeous 🍂"
+    },
+    {
+      "id": 2,
+      "author": "tomB",
+      "rating": 4,
+      "date": "2024-10-08",
+      "body": "Really nice pattern, though I had to re-read the decrease section a few times before i got it. Came out lovely in the end though - definitely recommend!"
+    },
+    {
+      "id": 3,
+      "author": "KnittingMum_Clare",
+      "rating": 5,
+      "date": "2024-11-14",
+      "body": "Third time making this and gifted two already. Everyone always asks where I got it from. My go-to quick gift pattern."
+    },
+    {
+      "id": 4,
+      "author": "dan1983",
+      "rating": 3,
+      "date": "2024-12-02",
+      "body": "It's ok. The leaf motif is a bit fiddly and a couple of the instructions could be clearer. Nice end result but took me longer than expected for something labelled beginner."
+    },
+    {
+      "id": 5,
+      "author": "jenny_wool",
+      "rating": 5,
+      "date": "2025-01-19",
+      "body": "SO cute!! Mine turned out a bit wonky the first time but second attempt was perfcet lol. Free pattern too which is amazing."
+    },
+    {
+      "id": 6,
+      "author": "R_Hutchings",
+      "rating": 4,
+      "date": "2025-02-28",
+      "body": "Good solid beginner pattern. Took me about 6 evenings as a fairly new knitter. Very satisfying to wear when done."
+    }
+  ]
+}
